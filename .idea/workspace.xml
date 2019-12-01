@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9232f371-eea4-4120-9b20-3f0c9f5b77d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestGit3/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestGit3/com/company/T1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575206497054</updated>
-      <workItem from="1575206500746" duration="819000" />
+      <workItem from="1575206500746" duration="862000" />
     </task>
+    <task id="LOCAL-00001" summary="本地第二次提交">
+      <created>1575207349942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575207349942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="本地第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="本地第二次提交" />
   </component>
 </project>
